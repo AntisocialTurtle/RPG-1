@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"Main_Actor _1","characterIndex":0,"characterName":"Main_Actor_1","classId":6,"equips":[6,1,2,3,0,0],"faceIndex":0,"faceName":"Main_Actor_1","traits":[{"code":43,"dataId":1,"value":1},{"code":41,"dataId":2,"value":1},{"code":43,"dataId":2,"value":1},{"code":43,"dataId":10,"value":1},{"code":52,"dataId":1,"value":1},{"code":52,"dataId":5,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Yukoru","nickname":"Koru","note":"","profile":""},
+{"id":2,"battlerName":"Main_Actor _2","characterIndex":1,"characterName":"Main_Actor_1","classId":7,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"Main_Actor_2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Clodus","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Main_Actor _4","characterIndex":0,"characterName":"Main_Actors_2","classId":3,"equips":[3,0,2,3,4],"faceIndex":3,"faceName":"Main_Actor_3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Taegen","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Main_Actor _3","characterIndex":3,"characterName":"Main_Actor_1","classId":4,"equips":[4,0,2,3,4],"faceIndex":4,"faceName":"Main_Actor_4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Diana","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Main_Actor _5","characterIndex":2,"characterName":"Main_Actor_1","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Main_Actor_5","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alezael","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"Main_Actor _6","characterIndex":1,"characterName":"Main_Actors_2","classId":11,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Main_Actor_6","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stoldunor","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Sister_Actor_1","characterIndex":2,"characterName":"Main_Actors_2","classId":4,"equips":[43,0,2,3,4],"faceIndex":0,"faceName":"Sister_1","traits":[{"code":43,"dataId":8,"value":1}],"initialLevel":1,"maxLevel":1,"name":"Sister","nickname":"Sis","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
